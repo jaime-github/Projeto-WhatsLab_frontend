@@ -1,5 +1,5 @@
 <h1 align="center">
-    📲 📴 <a href="#" alt="site do projeto" target="_blank"> Astro-Match </a> 📲 📴
+    📲 📴 <a href="#" alt="site do projeto" target="_blank"> WhatsLab </a> 📲 📴
 </h1>
 
 ## 💻 Sobre o projeto
