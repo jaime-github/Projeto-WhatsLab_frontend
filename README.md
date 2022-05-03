@@ -4,7 +4,7 @@
 
 ## 💻 Sobre o projeto
 
-   O projeto WhatsLab foi desenvolvido com o intuito de realizar um clone do Whatsapp, mas não é uma aplicação que envia e recebe mensagens de externas, e sim que crie algo que simplesmente mostre novas mensagens, com as funções básicas utilizando o conceito de Minimun Viable Product. Projeto feito com: React.JS e Styled-Components. Trata-se de um aplicativo semelhante ao WhatsApp, Telegram, Messenger.
+   O projeto WhatsLab foi desenvolvido com o intuito de realizar um clone do Whatsapp, mas não é uma aplicação que envia e recebe mensagens externas, e sim que crie algo que simplesmente mostre novas mensagens, com as funções básicas utilizando o conceito de Minimun Viable Product. Projeto feito com: React.JS e Styled-Components. Trata-se de um aplicativo semelhante ao WhatsApp, Telegram, Messenger.
 
 ### Sumário
 
